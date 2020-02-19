@@ -12,7 +12,7 @@ This is a simple version of the game Tic-Tac-Toe which can be played with two pl
 ### How to Use
 * Clone the project in the terminal by running
 ```
-git clone
+git clone https://github.com/evaveskova/tic-tac-toe-python.git
 ```
 * Open the project folder and run the code.
 * Follow the on=screen instructions to play the game.
